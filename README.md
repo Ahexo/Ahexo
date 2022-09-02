@@ -6,6 +6,7 @@ I am your guy Axel, a Computer Sciences undergraduate at Facultad de Ciencias UN
 - Audio Signal Processing
 - Programming Languages Theory
 - Web Development (specially front-end stuff)
+- .NET Framework, Python and Low-level computing
 
 ### Some fun facts
 - "Ahexo" has no special meaning, it's just a letters scramble I use as a general username almost everywhere.
