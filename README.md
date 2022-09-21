@@ -18,4 +18,3 @@ I am your guy Axel, a Computer Sciences undergraduate at Facultad de Ciencias UN
 - My first computer program (following Hello World, of course) was a Turtle doodle of a square written in Ruby in a Compaq Presario F700 back in 2010.
 
 You can reach me easily via e-mail ([ahexo@ciencias.unam.mx](mailto:ahexo@ciencias.unam.mx)), I'll be glad to read you :)
-<img src="https://grabify.link/XWBC1O.png"/>
