@@ -2,10 +2,10 @@
 I am your guy Axel, a Computer Sciences undergraduate at Facultad de Ciencias UNAM, in Mexico City.
 
 ### Range of interests 
+- Computing Theory
 - Computer Graphics
 - Audio Signal Processing
 - Programming Languages Theory
-- Web Development (specially front-end stuff)
 - .NET Framework, Python and Low-level computing
 
 ### Some fun facts
