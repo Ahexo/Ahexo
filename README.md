@@ -3,9 +3,9 @@ I am your guy Axel, a Computer Sciences undergraduate at Facultad de Ciencias UN
 
 ### Range of interests 
 - Computing Theory
-- Computer Graphics
+- Natural Language Processing
 - Audio Signal Processing
-- Programming Languages Theory
+- Formal Languages Theory
 - .NET Framework, Python and Low-level computing
 
 ### Some fun facts
