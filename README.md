@@ -3,6 +3,7 @@ I am your guy Axel, a Computer Sciences undergraduate at the School of Sciences 
 
 ### Range of technical interests 
 - Natural Language Processing
+- Back-end Web Development
 - Audio Signal Processing
   - Singing Processing
 - Formal Languages Theory
