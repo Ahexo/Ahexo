@@ -2,9 +2,9 @@
 I am your guy Axel, a Computer Sciences undergraduate at the School of Sciences (UNAM), in Mexico City.
 
 ### Range of technical interests 
-- Digital Signal Proccesing
-- Audio Signal Processing
-  - Singing Processing
+- Digital Signal Proccesing, more specifically...
+  - Audio Signal Processing, specially...
+    - Singing Processing
 - Formal Languages Theory
 - Natural Language Processing
 - Back-end Web Development
