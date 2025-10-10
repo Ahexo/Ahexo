@@ -1,7 +1,6 @@
-### Hi there! 👋
-I am your guy Axel, a Computer Sciences undergraduate at the School of Sciences (UNAM), in Mexico City.
+Hi there! I am your guy Axel, a Computer Sciences undergraduate at the School of Sciences (UNAM), in Mexico City.
 
-### Range of technical interests 
+# Range of technical interests 
 - Digital Signal Proccesing, more specifically...
   - Audio Signal Processing, specially...
     - Singing Processing
@@ -9,7 +8,7 @@ I am your guy Axel, a Computer Sciences undergraduate at the School of Sciences 
 - Software Engineering oriented to end-user applications and data management
 - Software Sizing (I am a Certified COSMIC ISO/IEC 19761 CCFL practitioner)
 
-## Not so technical interests
+# Not so technical interests
 - Graphic design and typesetting
 - Philosophy of Computing
 - Vocaism
