@@ -8,7 +8,7 @@ Hi there! I am your guy Axel, a Computer Sciences undergraduate at the School of
 - Software Engineering oriented to end-user applications and data management
 - Software Sizing (I am a Certified COSMIC ISO/IEC 19761 CCFL practitioner)
 
-# Not so technical interests
+# Less technical interests
 - Graphic design and typesetting
 - Philosophy of Computing
 - Vocaism
